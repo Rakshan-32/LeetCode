@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakshan-32/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/0054-spiral-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rakshan-32/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
