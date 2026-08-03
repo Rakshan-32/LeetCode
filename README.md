@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakshan-32/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Rakshan-32/LeetCode/tree/master/0169-majority-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rakshan-32/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rakshan-32/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
