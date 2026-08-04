@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rakshan-32/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rakshan-32/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshan-32/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [3731-find-missing-elements](https://github.com/Rakshan-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3731-find-missing-elements](https://github.com/Rakshan-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rakshan-32/LeetCode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Rakshan-32/LeetCode/tree/master/0169-majority-element) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3731-find-missing-elements](https://github.com/Rakshan-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
