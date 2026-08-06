@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rakshan-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshan-32/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rakshan-32/LeetCode/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rakshan-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
