@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakshan-32/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Rakshan-32/LeetCode/tree/master/0169-majority-element) |
+| [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Rakshan-32/LeetCode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/0054-spiral-matrix) |
+| [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Simulation
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Rakshan-32/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Rakshan-32/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshan-32/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rakshan-32/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshan-32/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rakshan-32/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rakshan-32/LeetCode/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Rakshan-32/LeetCode/tree/master/1668-maximum-repeating-substring) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
