@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Rakshan-32/LeetCode/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2582-pass-the-pillow](https://github.com/Rakshan-32/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshan-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshan-32/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshan-32/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rakshan-32/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshan-32/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshan-32/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshan-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -238,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Rakshan-32/LeetCode/tree/master/1927-sum-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
