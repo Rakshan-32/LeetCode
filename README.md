@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1927-sum-game](https://github.com/Rakshan-32/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/Rakshan-32/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshan-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshan-32/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshan-32/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshan-32/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshan-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rakshan-32/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Rakshan-32/LeetCode/tree/master/3731-find-missing-elements) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshan-32/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/Rakshan-32/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rakshan-32/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
