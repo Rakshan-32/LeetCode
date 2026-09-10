@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rakshan-32/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rakshan-32/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshan-32/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rakshan-32/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshan-32/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Rakshan-32/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rakshan-32/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rakshan-32/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/2679-sum-in-a-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rakshan-32/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
