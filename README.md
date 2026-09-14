@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Rakshan-32/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Rakshan-32/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rakshan-32/LeetCode/tree/master/0100-same-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rakshan-32/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
