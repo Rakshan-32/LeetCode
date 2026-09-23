@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Rakshan-32/LeetCode/tree/master/0493-reverse-pairs) |
+| [0495-teemo-attacking](https://github.com/Rakshan-32/LeetCode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Rakshan-32/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/Rakshan-32/LeetCode/tree/master/0994-rotting-oranges) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Rakshan-32/LeetCode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Rakshan-32/LeetCode/tree/master/0495-teemo-attacking) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshan-32/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/Rakshan-32/LeetCode/tree/master/2582-pass-the-pillow) |
