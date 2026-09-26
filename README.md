@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Rakshan-32/LeetCode/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/Rakshan-32/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Rakshan-32/LeetCode/tree/master/1927-sum-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshan-32/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rakshan-32/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshan-32/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rakshan-32/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakshan-32/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rakshan-32/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Rakshan-32/LeetCode/tree/master/0493-reverse-pairs) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshan-32/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting Sort
 |  |
@@ -320,4 +324,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rakshan-32/LeetCode/tree/master/0836-rectangle-overlap) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
