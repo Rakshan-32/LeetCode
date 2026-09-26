@@ -2,17 +2,17 @@ class Solution {
 public:
     int countPrimes(int n) {
         if(n<=2) return 0;
-        int ans=n-2;
-        vector<char> s(n,1);
-        for(int i=2;i*i<n;i++){
-            if(s[i]){
-                for(int j=i*i;j<n;j+=i){
-                    if(s[j]){
-                        s[j]=0;
-                        ans--;
-                    }
+        vector<char> arr(n,1);
+        for(int i=3;i<=n/i;i+=2){
+            if(arr[i]){
+                for(int j=i*i;j<n;j+=2*i){
+                    arr[j]=0;
                 }
             }
+        }
+        int ans=1;
+        for(int i=3;i<n;i+=2){
+            if(arr[i]) ans++;
         }
         return ans;
     }
