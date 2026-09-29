@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
+| [0319-bulb-switcher](https://github.com/Rakshan-32/LeetCode/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Rakshan-32/LeetCode/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/Rakshan-32/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Rakshan-32/LeetCode/tree/master/1927-sum-game) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rakshan-32/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rakshan-32/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Rakshan-32/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
