@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan-32/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshan-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rakshan-32/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakshan-32/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Rakshan-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshan-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rakshan-32/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rakshan-32/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakshan-32/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Rakshan-32/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rakshan-32/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rakshan-32/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Rakshan-32/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshan-32/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakshan-32/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Rakshan-32/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
