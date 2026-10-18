@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Rakshan-32/LeetCode/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Rakshan-32/LeetCode/tree/master/0547-number-of-provinces) |
+| [1377-frog-position-after-t-seconds](https://github.com/Rakshan-32/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rakshan-32/LeetCode/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Rakshan-32/LeetCode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Rakshan-32/LeetCode/tree/master/0994-rotting-oranges) |
+| [1377-frog-position-after-t-seconds](https://github.com/Rakshan-32/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rakshan-32/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rakshan-32/LeetCode/tree/master/0547-number-of-provinces) |
+| [1377-frog-position-after-t-seconds](https://github.com/Rakshan-32/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 ## Design
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rakshan-32/LeetCode/tree/master/0100-same-tree) |
+| [1377-frog-position-after-t-seconds](https://github.com/Rakshan-32/LeetCode/tree/master/1377-frog-position-after-t-seconds) |
 ## Binary Tree
 |  |
 | ------- |
