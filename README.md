@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Rakshan-32/LeetCode/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Rakshan-32/LeetCode/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Rakshan-32/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1390-four-divisors](https://github.com/Rakshan-32/LeetCode/tree/master/1390-four-divisors) |
 | [1927-sum-game](https://github.com/Rakshan-32/LeetCode/tree/master/1927-sum-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rakshan-32/LeetCode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/Rakshan-32/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Rakshan-32/LeetCode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakshan-32/LeetCode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Rakshan-32/LeetCode/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakshan-32/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rakshan-32/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakshan-32/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
