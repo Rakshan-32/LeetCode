@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshan-32/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Rakshan-32/LeetCode/tree/master/0819-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/Rakshan-32/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rakshan-32/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rakshan-32/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rakshan-32/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Rakshan-32/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Rakshan-32/LeetCode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Rakshan-32/LeetCode/tree/master/0819-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/Rakshan-32/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Rakshan-32/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rakshan-32/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rakshan-32/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshan-32/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rakshan-32/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Rakshan-32/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Rakshan-32/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rakshan-32/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rakshan-32/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rakshan-32/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
